@@ -1,3 +1,4 @@
 # flutter_services_app
 
-![Gambar 1](https://github.com/Lelegoyeng/flutter-service-app/blob/main/Gambar1.png)
+<img src="https://github.com/Lelegoyeng/flutter-service-app/blob/main/Gambar1.png" alt="GitHub Logo" width="400" height="300">
+
